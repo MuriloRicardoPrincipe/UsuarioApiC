@@ -3,20 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\muril\\source\\repos\\UsuariosAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DE22D0C7-9D5C-4F4F-93FB-A655AC24A540}|UsuariosAPI\\UsuariosAPI.csproj|c:\\users\\muril\\source\\repos\\usuariosapi\\usuariosapi\\data\\dtos\\createusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE22D0C7-9D5C-4F4F-93FB-A655AC24A540}|UsuariosAPI\\UsuariosAPI.csproj|solutionrelative:usuariosapi\\data\\dtos\\createusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE22D0C7-9D5C-4F4F-93FB-A655AC24A540}|UsuariosAPI\\UsuariosAPI.csproj|c:\\users\\muril\\source\\repos\\usuariosapi\\usuariosapi\\filename.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DE22D0C7-9D5C-4F4F-93FB-A655AC24A540}|UsuariosAPI\\UsuariosAPI.csproj|solutionrelative:usuariosapi\\filename.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE22D0C7-9D5C-4F4F-93FB-A655AC24A540}|UsuariosAPI\\UsuariosAPI.csproj|c:\\users\\muril\\source\\repos\\usuariosapi\\usuariosapi\\profiles\\usuarioprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE22D0C7-9D5C-4F4F-93FB-A655AC24A540}|UsuariosAPI\\UsuariosAPI.csproj|solutionrelative:usuariosapi\\profiles\\usuarioprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE22D0C7-9D5C-4F4F-93FB-A655AC24A540}|UsuariosAPI\\UsuariosAPI.csproj|c:\\users\\muril\\source\\repos\\usuariosapi\\usuariosapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE22D0C7-9D5C-4F4F-93FB-A655AC24A540}|UsuariosAPI\\UsuariosAPI.csproj|solutionrelative:usuariosapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE22D0C7-9D5C-4F4F-93FB-A655AC24A540}|UsuariosAPI\\UsuariosAPI.csproj|c:\\users\\muril\\source\\repos\\usuariosapi\\usuariosapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE22D0C7-9D5C-4F4F-93FB-A655AC24A540}|UsuariosAPI\\UsuariosAPI.csproj|solutionrelative:usuariosapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE22D0C7-9D5C-4F4F-93FB-A655AC24A540}|UsuariosAPI\\UsuariosAPI.csproj|c:\\users\\muril\\source\\repos\\usuariosapi\\usuariosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE22D0C7-9D5C-4F4F-93FB-A655AC24A540}|UsuariosAPI\\UsuariosAPI.csproj|solutionrelative:usuariosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE22D0C7-9D5C-4F4F-93FB-A655AC24A540}|UsuariosAPI\\UsuariosAPI.csproj|c:\\users\\muril\\source\\repos\\usuariosapi\\usuariosapi\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE22D0C7-9D5C-4F4F-93FB-A655AC24A540}|UsuariosAPI\\UsuariosAPI.csproj|solutionrelative:usuariosapi\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE22D0C7-9D5C-4F4F-93FB-A655AC24A540}|UsuariosAPI\\UsuariosAPI.csproj|c:\\users\\muril\\source\\repos\\usuariosapi\\usuariosapi\\data\\dtos\\loginusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE22D0C7-9D5C-4F4F-93FB-A655AC24A540}|UsuariosAPI\\UsuariosAPI.csproj|solutionrelative:usuariosapi\\data\\dtos\\loginusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DE22D0C7-9D5C-4F4F-93FB-A655AC24A540}|UsuariosAPI\\UsuariosAPI.csproj|c:\\users\\muril\\source\\repos\\usuariosapi\\usuariosapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE22D0C7-9D5C-4F4F-93FB-A655AC24A540}|UsuariosAPI\\UsuariosAPI.csproj|solutionrelative:usuariosapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE22D0C7-9D5C-4F4F-93FB-A655AC24A540}|UsuariosAPI\\UsuariosAPI.csproj|c:\\users\\muril\\source\\repos\\usuariosapi\\usuariosapi\\controllers\\acessocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE22D0C7-9D5C-4F4F-93FB-A655AC24A540}|UsuariosAPI\\UsuariosAPI.csproj|solutionrelative:usuariosapi\\controllers\\acessocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE22D0C7-9D5C-4F4F-93FB-A655AC24A540}|UsuariosAPI\\UsuariosAPI.csproj|c:\\users\\muril\\source\\repos\\usuariosapi\\usuariosapi\\authorization\\idademinima.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE22D0C7-9D5C-4F4F-93FB-A655AC24A540}|UsuariosAPI\\UsuariosAPI.csproj|solutionrelative:usuariosapi\\authorization\\idademinima.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE22D0C7-9D5C-4F4F-93FB-A655AC24A540}|UsuariosAPI\\UsuariosAPI.csproj|c:\\users\\muril\\source\\repos\\usuariosapi\\usuariosapi\\authorization\\idadeauthorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE22D0C7-9D5C-4F4F-93FB-A655AC24A540}|UsuariosAPI\\UsuariosAPI.csproj|solutionrelative:usuariosapi\\authorization\\idadeauthorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,59 +46,117 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\muril\\source\\repos\\UsuariosAPI\\UsuariosAPI\\Models\\Usuario.cs",
-              "RelativeDocumentMoniker": "UsuariosAPI\\Models\\Usuario.cs",
-              "ToolTip": "C:\\Users\\muril\\source\\repos\\UsuariosAPI\\UsuariosAPI\\Models\\Usuario.cs",
-              "RelativeToolTip": "UsuariosAPI\\Models\\Usuario.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\source\\repos\\UsuariosAPI\\UsuariosAPI\\Program.cs",
+              "RelativeDocumentMoniker": "UsuariosAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\muril\\source\\repos\\UsuariosAPI\\UsuariosAPI\\Program.cs",
+              "RelativeToolTip": "UsuariosAPI\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADYAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T10:01:55.435Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UsuarioProfile.cs",
-              "DocumentMoniker": "C:\\Users\\muril\\source\\repos\\UsuariosAPI\\UsuariosAPI\\Profiles\\UsuarioProfile.cs",
-              "RelativeDocumentMoniker": "UsuariosAPI\\Profiles\\UsuarioProfile.cs",
-              "ToolTip": "C:\\Users\\muril\\source\\repos\\UsuariosAPI\\UsuariosAPI\\Profiles\\UsuarioProfile.cs",
-              "RelativeToolTip": "UsuariosAPI\\Profiles\\UsuarioProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T09:57:50.335Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T11:46:01.308Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CreateUsuarioDto.cs",
-              "DocumentMoniker": "C:\\Users\\muril\\source\\repos\\UsuariosAPI\\UsuariosAPI\\Data\\Dtos\\CreateUsuarioDto.cs",
-              "RelativeDocumentMoniker": "UsuariosAPI\\Data\\Dtos\\CreateUsuarioDto.cs",
-              "ToolTip": "C:\\Users\\muril\\source\\repos\\UsuariosAPI\\UsuariosAPI\\Data\\Dtos\\CreateUsuarioDto.cs",
-              "RelativeToolTip": "UsuariosAPI\\Data\\Dtos\\CreateUsuarioDto.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAqwBEAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T09:54:08.886Z",
+              "Title": "FileName.txt",
+              "DocumentMoniker": "C:\\Users\\muril\\source\\repos\\UsuariosAPI\\UsuariosAPI\\FileName.txt",
+              "RelativeDocumentMoniker": "UsuariosAPI\\FileName.txt",
+              "ToolTip": "C:\\Users\\muril\\source\\repos\\UsuariosAPI\\UsuariosAPI\\FileName.txt",
+              "RelativeToolTip": "UsuariosAPI\\FileName.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-30T11:49:35.798Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IdadeAuthorization.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\source\\repos\\UsuariosAPI\\UsuariosAPI\\Authorization\\IdadeAuthorization.cs",
+              "RelativeDocumentMoniker": "UsuariosAPI\\Authorization\\IdadeAuthorization.cs",
+              "ToolTip": "C:\\Users\\muril\\source\\repos\\UsuariosAPI\\UsuariosAPI\\Authorization\\IdadeAuthorization.cs",
+              "RelativeToolTip": "UsuariosAPI\\Authorization\\IdadeAuthorization.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:24:30.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IdadeMinima.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\source\\repos\\UsuariosAPI\\UsuariosAPI\\Authorization\\IdadeMinima.cs",
+              "RelativeDocumentMoniker": "UsuariosAPI\\Authorization\\IdadeMinima.cs",
+              "ToolTip": "C:\\Users\\muril\\source\\repos\\UsuariosAPI\\UsuariosAPI\\Authorization\\IdadeMinima.cs",
+              "RelativeToolTip": "UsuariosAPI\\Authorization\\IdadeMinima.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:13:46.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AcessoController.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\source\\repos\\UsuariosAPI\\UsuariosAPI\\Controllers\\AcessoController.cs",
+              "RelativeDocumentMoniker": "UsuariosAPI\\Controllers\\AcessoController.cs",
+              "ToolTip": "C:\\Users\\muril\\source\\repos\\UsuariosAPI\\UsuariosAPI\\Controllers\\AcessoController.cs",
+              "RelativeToolTip": "UsuariosAPI\\Controllers\\AcessoController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAqwAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:05:51.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\source\\repos\\UsuariosAPI\\UsuariosAPI\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "UsuariosAPI\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\muril\\source\\repos\\UsuariosAPI\\UsuariosAPI\\Services\\TokenService.cs",
+              "RelativeToolTip": "UsuariosAPI\\Services\\TokenService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABoAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T11:26:20.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginUsuarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\source\\repos\\UsuariosAPI\\UsuariosAPI\\Data\\Dtos\\LoginUsuarioDto.cs",
+              "RelativeDocumentMoniker": "UsuariosAPI\\Data\\Dtos\\LoginUsuarioDto.cs",
+              "ToolTip": "C:\\Users\\muril\\source\\repos\\UsuariosAPI\\UsuariosAPI\\Data\\Dtos\\LoginUsuarioDto.cs",
+              "RelativeToolTip": "UsuariosAPI\\Data\\Dtos\\LoginUsuarioDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T11:16:05.938Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\source\\repos\\UsuariosAPI\\UsuariosAPI\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "UsuariosAPI\\Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\muril\\source\\repos\\UsuariosAPI\\UsuariosAPI\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "UsuariosAPI\\Services\\UsuarioService.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAqwDQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T11:16:02.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "UsuarioController.cs",
               "DocumentMoniker": "C:\\Users\\muril\\source\\repos\\UsuariosAPI\\UsuariosAPI\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "UsuariosAPI\\Controllers\\UsuarioController.cs",
               "ToolTip": "C:\\Users\\muril\\source\\repos\\UsuariosAPI\\UsuariosAPI\\Controllers\\UsuarioController.cs",
               "RelativeToolTip": "UsuariosAPI\\Controllers\\UsuarioController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T09:50:25.504Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T11:16:00.168Z"
             }
           ]
         }
